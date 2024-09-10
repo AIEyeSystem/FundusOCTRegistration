@@ -2,7 +2,7 @@
 
 ```python
 Run the notebook in scripts
-showImage.ipynb (stack the oct images)
+OCTProjection.ipynb (stack the oct images)
 Registration.ipynb (Fundus-OCTA image registration)
 ```
 
